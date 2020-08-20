@@ -4,14 +4,14 @@
 
 [![NPM](https://img.shields.io/npm/v/plane.svg)](https://www.npmjs.com/package/experiment-page-not-found) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## [Demo](https://krasovsky22.github.io/experiment-page-not-found/)
+## [Demo](https://krasovsky22.github.io/experiment-loading/)
 
 ![Test Image 1](screenshot.gif)
 
 ## Install
 
 ```bash
-npm install --save krasovsky22/experiment-page-not-found
+npm install --save krasovsky22/experiment-loading
 ```
 
 ## Usage
